@@ -1,0 +1,10 @@
+header{
+  background-color: black
+
+}
+.menu{
+  white-space: nowrap;
+}
+.menu > div {
+  display: inline-block
+}
